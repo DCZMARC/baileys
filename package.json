@@ -1,7 +1,7 @@
 {
-    "name": "@z4phdev/baileys",
+    "name": "@DCZMARC/baileys",
     "version": "2.0.3",
-    "description": "WhatsApp API Modification By Z",
+    "description": "WhatsApp API Modification By Zazel",
     "keywords": [
         "whatsapp",
         "baileys",
@@ -11,12 +11,12 @@
         "botwa",
         "z4phdev"
     ],
-    "homepage": "https://github.com/z4phdev/baileys",
+    "homepage": "https://github.com/DCZMARC/baileys",
     "repository": {
-        "url": "https://github.com/z4phdev/baileys"
+        "url": "https://github.com/DCZMARC/baileys"
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "THE AZAZEL",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
